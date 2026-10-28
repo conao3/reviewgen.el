@@ -12,7 +12,7 @@ reviewgen.el is an Emacs package that helps you generate review comments from pr
 
 * Requirements
 
-- Emacs 25.1 or later
+- Emacs 29.1 or later
 
 * Installation
 
